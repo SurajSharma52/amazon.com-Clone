@@ -16,7 +16,7 @@
 .logo-link {
     display: inline-block;
     border: 1px solid transparent;
-    background-image: url(./amazon_logo.png);
+    background-image: url(./Amazon_Images/amazon_logo.png);
     background-color: rgba(2, 10, 17, 0.1);
     background-size: 100%;
     position: relative;
@@ -27,7 +27,7 @@
 }
 .logo-link2 {
     display: inline-block;
-    background-image: url(./amazon_logo.png);
+    background-image: url(./Amazon_Images/amazon_logo.png);
     background-color: rgba(2, 10, 17, 0.1);
     background-size: 100%;
     position: relative;
