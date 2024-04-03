@@ -16,7 +16,7 @@
 .logo-link {
     display: inline-block;
     border: 1px solid transparent;
-    background-image: url(./Amazon_Images/amazon_logo.png);
+    background-image: url(https://github.com/SurajSharma52/amazon.com-Clone/assets/119287358/d20f013d-101d-4a13-91f9-8d49a4383b05);
     background-color: rgba(2, 10, 17, 0.1);
     background-size: 100%;
     position: relative;
@@ -27,7 +27,7 @@
 }
 .logo-link2 {
     display: inline-block;
-    background-image: url(./Amazon_Images/amazon_logo.png);
+    background-image: url(https://github.com/SurajSharma52/amazon.com-Clone/assets/119287358/d20f013d-101d-4a13-91f9-8d49a4383b05);
     background-color: rgba(2, 10, 17, 0.1);
     background-size: 100%;
     position: relative;
@@ -321,7 +321,7 @@
 }
 
 .hero-section {
-    background-image: url(./Amazon_Images/hero_image.jpg);
+    background-image: url(https://github.com/SurajSharma52/amazon.com-Clone/assets/119287358/0a714c0a-49eb-4cc2-93a0-01a189cd5505);
     background-size: cover;
     height: 600px;
     width: 1517px;
